@@ -9775,7 +9775,7 @@ Redis:del(TheMica..'Mica:Texting:DevTheMica')
 return LuaTele.sendText(msg_chat_id,msg_id,'⌔︰ تم حذف كليشه المطور')
 end
 if text == 'مبرمج سورس' or text == 'مبرمج السورس' or text == 'المبرمج' then  
-local UserId_Info = LuaTele.searchPublicChat("kidcrl")
+local UserId_Info = LuaTele.searchPublicChat("YlI5Y")
 if UserId_Info.id then
 local UserInfo = LuaTele.getUser(UserId_Info.id)
 local InfoUser = LuaTele.getUserFullInfo(UserId_Info.id)
@@ -9800,7 +9800,7 @@ local TestText = "- معلومات مبرمج السورس : \\nn: name Dev . ["
 keyboardd = {} 
 keyboardd.inline_keyboard = {
 {
-{text = '❲ 𝖼𝗈𝖽𝖾𝗋 ❳', url = "https://t.me/kidcrl"}
+{text = '❲ 𝖼𝗈𝖽𝖾𝗋 ❳', url = "https://t.me/YlI5Y"}
 },
 {
 {text = '٬ 𝑀𝐸𝐺𝐺𝐴 🕷 ٫', url = "https://t.me/KKKK5K"},
@@ -9917,7 +9917,7 @@ Welcome to Source : [𝑀𝐸𝐺𝐺𝐴 𝑆𝑂𝑈𝑅𝑆𝐸](https://t.me
 keyboard = {} 
 keyboard.inline_keyboard = {
 {
-{text = '𝗂𝗇𝗍𝖾𝗋𝗇𝖺𝗍𝗂𝗈𝗇𝖺𝗅 𝗉𝗋𝗈𝗀𝗋𝖺𝗆𝗆𝖾𝗋 †', url = "https://t.me/kidcrl"},{text = '𝗌𝗈𝗎𝗋𝖼𝖾 †', url = "https://t.me/KKKK5K"}
+{text = '𝗂𝗇𝗍𝖾𝗋𝗇𝖺𝗍𝗂𝗈𝗇𝖺𝗅 𝗉𝗋𝗈𝗀𝗋𝖺𝗆𝗆𝖾𝗋 †', url = "https://t.me/kidcrl"},{text = '𝗌𝗈𝗎𝗋𝖼𝖾 †', url = "https://t.me/MEGGAS"}
 },
 {
 {text = 'ُ𝗍𝗐𝗌 †', url = "https://t.me/YlI5Y"}
